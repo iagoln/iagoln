@@ -41,10 +41,11 @@
 ### My codes
 <p>I'm still building my portfolio,but i have some projects and you can find some of them <a href="https://github.com/iagoln?tab=repositories">HERE!</a> </p>
 <div display="block">
- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=iagoln&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-
+	<p align="center">
+ <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=iagoln&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+</p>
 </div>
-<br><br><br>
+
 <br><br><br>
 <br><br><br>
 
