@@ -9,7 +9,7 @@
 ---
 
 ### What I do in my life?
-<p>Today I am developing a web chatbot system for whatsapp integrated with scheduling systems and google api. I am finishing a Full Stack Web Development course at Digital House.</p>
+<p>Today I am developing a web chatbot system for whatsapp integrated with scheduling systems and google api. I am Full Stack Web Development course at Digital House.</p>
 
 ### What technologies can I work with today
 <div display="block">
